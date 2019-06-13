@@ -1,0 +1,170 @@
+
+section {
+  padding-bottom: 100px;
+}
+
+#about {
+  position: relative;
+}
+
+#container {
+  position: relative;
+  z-index: 20;
+}
+
+#container {
+  margin-top: 82px;
+}
+
+#wrap {
+  position: relative;
+  font-family: "Noto Sans KR", sans-serif;
+}
+
+#wrap {
+  font-size: 1em;
+}
+
+#wrap {
+  font-size: 0.9em;
+}
+
+.inner_container {
+  margin: 0 auto;
+  padding: 0 40px;
+  max-width: 1280px;
+}
+
+.title_wrap {
+  text-align: center;
+}
+
+.profile_wrap .profile_info {
+  float: left;
+  width: 60%;
+}
+
+.skill {
+  float: right;
+  width: 40%;
+}
+.skill_nw{
+  position: relative;
+  float: left;
+  width: 65%;
+}
+
+.sub_title {
+  padding-bottom: 30px;
+  color: #426245;
+}
+
+ol,
+ul {
+  list-style: none;
+}
+
+.skill_nw .skill_dsc {
+  color: #666;
+}
+
+.skill_nw .skill_bar {
+  padding-top: 20px;
+}
+
+.skill_nw .skill_bar li {
+  padding-top: 20px;
+}
+
+.skill_nw .skill_bar .bar_wrap {
+  position: relative;
+}
+
+.skill_nw .skill_bar .bar_basic {
+  margin-top: 10px;
+  width: 100%;
+  height: 3px;
+  background-color: #dfdfdf;
+}
+
+.skill_nw .skill_bar .bar_move {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 0px;
+  height: 3px;
+  background-color: #ff0073;
+}
+
+.skill_nw .skill_bar .bar_move.bar_05 {
+  width: 80%;
+  transition: 1s;
+}
+
+.skill_nw .skill_bar .bar_move.bar_04 {
+  width: 85%;
+  transition: 1s;
+}
+
+.skill_nw .skill_bar .bar_move.bar_03 {
+  width: 90%;
+  transition: 1s;
+}
+
+.skill_nw .skill_bar .bar_move.bar_02 {
+  width: 75%;
+  transition: 1s;
+}
+
+.skill_nw .skill_bar .bar_move.bar_01 {
+  width: 75%;
+  transition: 1s;
+}
+
+.skill .skill_dsc li {
+  padding-bottom: 10px;
+}
+.profile .profile_img {
+  float: left;
+  width: 20%;
+}
+
+.profile .personal_info {
+  float: left;
+  padding-left: 5%;
+  width: 75%;
+}
+
+.profile {
+  float: left;
+  padding-top: 30px;
+  width: 100%;
+  color: #666;
+}
+
+.profile li {
+  padding-bottom: 5px;
+}
+
+.profile .personal_info li {
+  color: #666;
+}
+
+.profile .personal_info .name {
+  font-size: 1.25em;
+  color: #222;
+}
+
+.profile .personal_info .part {
+  padding-bottom: 20px;
+}
+
+.title_Main {
+  position: relative;
+  padding: 50px 0;
+  font-size: 1.87em;
+  color: #ff0073;
+}
+.fontas{
+  font-size: 30px;
+}
