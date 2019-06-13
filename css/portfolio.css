@@ -124,6 +124,9 @@ ul {
 .skill .skill_dsc li {
   padding-bottom: 10px;
 }
+.skill_bar{
+  width: 150%;
+}
 .profile .profile_img {
   float: left;
   width: 20%;
